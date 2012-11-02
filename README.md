@@ -1,4 +1,4 @@
 Preyect_Free_JC
 ===============
 
-Aplicaciones en Phyton y MySql y todo referente a sofware Free
+Aplicaciones en Phyton & MySql y todo referente a software Free
